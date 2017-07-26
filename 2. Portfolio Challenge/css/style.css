@@ -1,0 +1,122 @@
+body{
+  
+  color: white;
+}
+h1, h2, h3, h4, h5{
+  font-family: 'Pacifico', cursive;
+  
+}
+.navbar{
+  background-color:rgba(0,0,0, 0.7);
+  border-radius: 0px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 35px;
+}
+.brand{
+  font-size: 40px;
+}
+.header{
+  background: url("http://www.idfromdc.com/wp-content/uploads/2013/03/At-the-Office-Mac-Apple-Wallpapers-Creative-Planning-298219.jpg") no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  height: 650px;
+  color: white;
+  padding-top: 50px;
+}
+
+.bg-overlay{
+  background:rgba(0,0,0, 0.7);
+  height: 650px;
+}
+
+.myimage{
+  
+  border-width: 5px;
+  border-color: ;
+  border-style: solid;
+  border-radius: 100%;
+  height: 200px;
+  }
+.mybrand{
+  margin-top: 5px;
+}
+
+.btn-home{
+  
+  height: 60px !important;
+  margin-left: 30px;
+}
+
+.about{
+  background: url("https://cdn-images-1.medium.com/max/1920/1*vXjx4Y7EgQBwALkaeZJ0Cg.jpeg") no-repeat center fixed;
+  background-size: cover;
+  height: 650px;
+}
+
+.about-overlay{
+  
+  height: 650px !important;
+}
+
+.about-me{
+  
+  text-align: center !important;
+}
+.video{
+  
+  margin-top: 50px;
+}
+.prose{
+  font-family: 'Dosis', sans-serif;
+  font-size: 17px;
+}
+
+.portfolio{
+  height: 300px;
+  background: url("https://www.arcwebsmac.in/wp-content/themes/arcwebsmac/images/portfolio-background.png") no-repeat center fixed;
+  background-size: cover;
+}
+.portfolio-overlay{
+  height: 300px;
+}
+.coming-soon{
+  padding-top: 50px;
+  color: red;
+}
+
+.contact{
+  background: url("http://www.cfpast.com/wp-assets/uploads/2016/08/header_contact.jpg") no-repeat center fixed;
+  background-size: cover;
+  height: 650px !important;
+}
+
+.contact-overlay{
+  
+    height: 650px;
+    padding-top: 100px;
+    }
+
+input[type=text], select, textarea{
+  
+  width: 100%;
+  resize: vertical;
+  padding: 12px;
+  border: 1px solid;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  color: black;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.reach-me{
+  margin-top: 100px;
+}
